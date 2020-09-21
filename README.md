@@ -168,7 +168,7 @@ If you find the code or trained models useful, please consider citing:
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-- Copyright © [Shlomo](https://github.com/QuantScientist/).
+- Copyright © [Shlomo](https://github.com/QuantScientist/) and Koba-Jon: https://github.com/koba-jon/
 
 # References
 - https://github.com/koba-jon/pytorch_cpp 
