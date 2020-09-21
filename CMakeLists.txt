@@ -106,7 +106,7 @@ endif(MSVC)
 # # Copy trained PTH files
 file(COPY "resources/style_model_cpp.pt" DESTINATION ${CMAKE_SOURCE_DIR}/bin64)
 file(COPY "resources/erfnet_fs.pt" DESTINATION ${CMAKE_SOURCE_DIR}/bin64)
-file(COPY "resources/clion.png" DESTINATION ${CMAKE_SOURCE_DIR}/bin64)
+file(COPY "resources/siv3d-kun.png" DESTINATION ${CMAKE_SOURCE_DIR}/bin64)
 
 message(STATUS "----------------- INSTALL LOCATIONS -----------------")
 message(STATUS "CMAKE_INSTALL_PREFIX          = ${CMAKE_INSTALL_PREFIX}")
