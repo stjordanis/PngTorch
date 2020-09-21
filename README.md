@@ -99,10 +99,9 @@ int main(int argc, char *argv[]) {
 
 * A Simple example, mainly for testing the integration. Allocates a tensor on the GPU.
 
-![PngTorch++ Code](https://github.com/QuantScientist/PngTorch/blob/master/assets/simple001.gif?raw=true)
  
 * Load a trained PyTorch model in C++ (**see pth folder**), load an Image in C++, run a trained pytorch model on it and save the output.
- 
+ ![PngTorch++ Code](https://github.com/QuantScientist/PngTorch/blob/master/assets/structure.gif?raw=true)
 
 
 ## Requirements:
