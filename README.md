@@ -1,5 +1,5 @@
 
-<h4 align="center">An integration of the libpng / png++ libraries with the Libtorch C++ Deep Learning Library</h4>
+<h4 align="center">A CMake based integration of the libpng / png++ libraries with the Libtorch C++ Deep Learning Library</h4>
       
 <p align="center">
   <a href="#about">About</a> •
