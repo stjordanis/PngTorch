@@ -23,7 +23,7 @@
 <tr>
 <td>
   
-**PngTorch++** is an **integration** of the well-known  **_libpng_** (https://github.com/libpng) library 
+**PngTorch++** is a CMake based **integration** of the well-known  **_libpng_** (https://github.com/libpng) library 
 and my favourite Deep Learning Library Libtorch: the **_PyTorch_** C++ frontend.
 In many occations, one wants to avoid using OpenCV, just because of the large overhead. 
 This was the case when I started writing: https://github.com/QuantScientist/Siv3DTorch 
